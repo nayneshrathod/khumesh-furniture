@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "khumeshfurniture",
+    "public": "dist/khumesh-furniture",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
